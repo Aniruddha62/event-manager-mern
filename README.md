@@ -4,8 +4,6 @@ This is a full-stack Event Management application built using the MERN stack.
 
 It allows users to create, update, and manage events with secure authentication.
 
----
-
 ## 🚀 Tech Stack
 
 - React
@@ -14,8 +12,6 @@ It allows users to create, update, and manage events with secure authentication.
 - MongoDB
 - JWT Authentication
 
----
-
 ## ✨ Features
 
 - Create events
@@ -23,8 +19,6 @@ It allows users to create, update, and manage events with secure authentication.
 - Delete events
 - User authentication
 - Responsive UI
-
----
 
 ## 👨‍💻 Author
 
